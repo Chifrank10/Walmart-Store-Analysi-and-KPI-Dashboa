@@ -1,0 +1,37 @@
+# libraries
+pandas
+streamlit
+plotly
+
+pymsql working as an adaptor
+sqlalchemy to serve as sql engine
+
+#Instructions & Termnal Commands
+
+
+# Environment Setup
+
+## Windows Command Prompt Commands
+```cmd
+:: Install Python from the official website if not installed.
+:: Make sure to check "Add Python to PATH" during installation.
+
+:: Install pip if not installed (comes with Python installations).
+python -m ensurepip --upgrade
+```
+
+
+```
+
+# Download Datasets
+
+# Install Required Libraries
+
+# Install the necessary Python libraries
+pip install pandas numpy matplotlib seaborn scikit-learn
+```
+
+# Summary of Commands
+1. **Environment Setup:** Install Homebrew (macOS) or Python (Windows).
+2. **Download Datasets:** get from kaggle
+3. **Install Libraries:** Use pip to install required libraries for data analysis.
