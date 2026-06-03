@@ -1,6 +1,9 @@
+# libraries
 pandas
 streamlit
 plotly
+
+
 pymsql working as an adaptor
 sqlalchemy to serve as sql engine
 
